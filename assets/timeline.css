@@ -1,0 +1,13 @@
+body{
+    background-color: #28282B;
+}
+.ace_constant.numeric.timestamp {
+    color: blue;
+}
+.ace-timeline-object {
+    color: green;
+}
+/* Optional: Style the angle brackets if desired */
+.ace_punctuation.operator {
+    color: inherit;
+}
